@@ -16,7 +16,7 @@ manual-html/
 
 ---
 
-# Project 01 – Survey Form
+# Survey Form
 
 ## Overview
 
