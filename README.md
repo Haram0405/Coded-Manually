@@ -1,6 +1,6 @@
 # Manual HTML Project
 
-This repository contains two HTML projects created manually without copying AI-generated code.
+This repository contains HTML project created manually without copying AI-generated code.
 The purpose of this task was to practice writing HTML structure by hand and improve understanding of basic web development concepts.
 
 ---
@@ -11,7 +11,6 @@ The purpose of this task was to practice writing HTML structure by hand and impr
 manual-html/
 │
 ├── survey-form.html
-├── ecommerce-product.html
 └── README.md
 ```
 
